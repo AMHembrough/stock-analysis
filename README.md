@@ -29,15 +29,19 @@ The refactored code took less time to run than the original code, which is what 
 ### Supporting Documentation
 
 Run time Original-2017
+
 ![Run time Original-2017](https://raw.githubusercontent.com/AMHembrough/stock-analysis/main/VBA_Challenge_2017%20original.png) 
 
 Run time Refactored-2017
+
 ![Run time Refactored-2017](https://raw.githubusercontent.com/AMHembrough/stock-analysis/main/VBA_Challenge_2017.PNG) 
 
 Run time Original-2018
+
 ![Run time Original-2018](https://raw.githubusercontent.com/AMHembrough/stock-analysis/main/VBA_Challenge_2018%20original.png) 
 
 Run time Refactored-2018
+
 ![Run time Refactored-2018](https://raw.githubusercontent.com/AMHembrough/stock-analysis/main/VBA_Challenge_2018.PNG) 
 
 ## Summary
