@@ -28,8 +28,11 @@ Interestingly enough, the refactored code took longer to run than the original c
 
 ### Supporting Documentation
 ![Run time Original-2017](https://raw.githubusercontent.com/AMHembrough/stock-analysis/main/VBA_Challenge_2017%20original.png) 
+
 ![Run time Original-2018](https://raw.githubusercontent.com/AMHembrough/stock-analysis/main/VBA_Challenge_2018%20original.png) 
+
 ![Run time Refractored-2017](https://raw.githubusercontent.com/AMHembrough/stock-analysis/main/VBA_Challenge_2017.PNG) 
+
 ![Run time Refractored-2018](https://raw.githubusercontent.com/AMHembrough/stock-analysis/main/VBA_Challenge_2018.PNG) 
 
 ## Summary
